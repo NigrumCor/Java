@@ -1,0 +1,24 @@
+Lesson_1
+# Пожалуйста, введите сообщение коммита для ваших изменений. Строки,
+# начинающиеся с «#» будут проигнорированы, а пустое сообщение
+# отменяет процесс коммита.
+#
+# На ветке master
+#
+# Начальный коммит
+#
+# Изменения, которые будут включены в коммит:
+#	новый файл:    Project_1/.idea/description.html
+#	новый файл:    Project_1/.idea/encodings.xml
+#	новый файл:    Project_1/.idea/misc.xml
+#	новый файл:    Project_1/.idea/modules.xml
+#	новый файл:    Project_1/.idea/project-template.xml
+#	новый файл:    Project_1/.idea/vcs.xml
+#	новый файл:    Project_1/.idea/workspace.xml
+#	новый файл:    Project_1/Project_1.iml
+#	новый файл:    Project_1/out/production/Project_1/Calculator.class
+#	новый файл:    Project_1/out/production/Project_1/com/company/Main.class
+#	новый файл:    Project_1/src/Calculator.java
+#	новый файл:    Project_1/src/com/company/Main.java
+#	новый файл:    master
+#
